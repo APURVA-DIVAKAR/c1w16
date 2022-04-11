@@ -1,0 +1,6 @@
+.imgDis{
+    display: flex;
+}
+.imgDis>h4{
+    background-color: red;color: white;
+}
